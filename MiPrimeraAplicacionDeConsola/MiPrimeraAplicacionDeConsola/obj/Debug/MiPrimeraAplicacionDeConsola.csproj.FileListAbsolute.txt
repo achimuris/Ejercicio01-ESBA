@@ -4,3 +4,9 @@ C:\Users\AR00111194\Documents\Visual Studio 2015\Projects\ESBA 2018\MiPrimeraAPP
 C:\Users\AR00111194\Documents\Visual Studio 2015\Projects\ESBA 2018\MiPrimeraAPP\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.csprojResolveAssemblyReference.cache
 C:\Users\AR00111194\Documents\Visual Studio 2015\Projects\ESBA 2018\MiPrimeraAPP\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.exe
 C:\Users\AR00111194\Documents\Visual Studio 2015\Projects\ESBA 2018\MiPrimeraAPP\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\bin\Debug\MiPrimeraAplicacionDeConsola.exe.config
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\bin\Debug\MiPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\bin\Debug\MiPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\Documents\GitHub\Ejercicio01-ESBA\MiPrimeraAplicacionDeConsola\MiPrimeraAplicacionDeConsola\obj\Debug\MiPrimeraAplicacionDeConsola.csprojResolveAssemblyReference.cache

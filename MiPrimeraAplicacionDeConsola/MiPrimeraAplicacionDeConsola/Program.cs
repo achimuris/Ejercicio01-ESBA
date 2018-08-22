@@ -31,35 +31,27 @@ namespace MiPrimeraAplicacionDeConsola
             //Leer de consola.
             //Console.ReadLine();
 
-            
 
 
-            double nota1, nota2, nota3, nota4;
+
+            double nota1 = 0; 
             double promedio;
 
-            Console.Write("Ingrese nota 1: ");
 
-            nota1 = Convert.ToDouble(Console.ReadLine());
+            for (int i = 1; i <= 4; i++)
+            {
+
+                Console.WriteLine("Ingrese la nota número: " + i.ToString());
+                nota1 += Convert.ToDouble(Console.ReadLine());
+
+            }
 
 
-            Console.Write("Ingrese nota 2: ");
-
-            nota2 = Convert.ToDouble(Console.ReadLine());
-
-
-            Console.Write("Ingrese nota 3: ");
-
-            nota3 = Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("Ingrese nota 4: ");
-
-            nota4 = Convert.ToDouble(Console.ReadLine());
-
-            promedio = (nota1 + nota2 + nota3 + nota4) / 4;
+            promedio = (nota1) / 4;
 
             string mostrarPromedio = "";
 
-            mostrarPromedio = "El promedio es: " + promedio + " cuyas notas fueron: " + nota1 + " " + nota2 + " " + nota3 + " " + nota4 ;
+            mostrarPromedio = "El promedio es: " + promedio;
 
             //Console.WriteLine("El promedio es: {0} - {2} {0} ", promedio, nota3 , nota4);
             Console.WriteLine(mostrarPromedio);
